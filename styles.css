@@ -1,0 +1,15 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-image: url('beach_cologne_bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.container {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 900px;
+}
